@@ -3,27 +3,27 @@ This is not the original program. It is My generated short description/cheatshee
 
 ### Simpsons Paradox
 
-### PROBABILITY
+### Probability
 
-### BINOMIAL DISTRIBUTION 
+### Binomal Distribution
 
-### CONDITIONAL PROBABILITY
+### Conditional Probability
 
-### BAYES RULE
+### Bayes Rule
 
-### STANDARDIZING 
+### Standardizing
 
-### SAMPLING DISTRIBUTIONS AND CENTRAL LIMIT THEOREM
+### Sampling Distribution and Central Limit Theorem
 
-### CONFIDENCE INTERVALS
+### Confidence Intervals
 
-### HYPOTHESIS TESTING
+### Hypothesis Testing
 
-### T-TESTS AND A/B TESTS 
+### t-Test and A/B Tests 
 
-### REGRESSION
+### Regression
 
-### MULTIPLE LINEAR REGRESSION
+### Multiple Linear Regression
 
-### LOGISTIC REGRESSION
+### Logistic Regression
 
