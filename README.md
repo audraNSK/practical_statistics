@@ -11,6 +11,14 @@ This is not the original program. It is My generated short description/cheatshee
 
 ### Bayes Rule
 
+def bayesTheorem(pA, pB, pBA):
+    return pA * pBA / pB
+pRain = 0.2
+pCloudy = 0.4
+pCloudyRain = 0.85
+
+bayesTheorem(pRain, pCloudy, pCloudyRain)
+
 ### Standardizing
 
 ### Sampling Distribution and Central Limit Theorem
