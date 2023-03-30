@@ -1,29 +1,29 @@
 This repository is based on Data Analyst nanoDegree Syllabus questions of supporting content (practical statistics) (Udacity)
 This is not the original program. It is My generated short description/cheatsheet on Proctical Statistics techniques. 
 
-# Simpsons Paradox
+### Simpsons Paradox
 
-# PROBABILITY
+### PROBABILITY
 
-# BINOMIAL DISTRIBUTION 
+### BINOMIAL DISTRIBUTION 
 
-# CONDITIONAL PROBABILITY
+### CONDITIONAL PROBABILITY
 
-# BAYES RULE
+### BAYES RULE
 
-# STANDARDIZING 
+### STANDARDIZING 
 
-# SAMPLING DISTRIBUTIONS AND CENTRAL LIMIT THEOREM
+### SAMPLING DISTRIBUTIONS AND CENTRAL LIMIT THEOREM
 
-# CONFIDENCE INTERVALS
+### CONFIDENCE INTERVALS
 
-# HYPOTHESIS TESTING
+### HYPOTHESIS TESTING
 
-# T-TESTS AND A/B TESTS 
+### T-TESTS AND A/B TESTS 
 
-# REGRESSION
+### REGRESSION
 
-# MULTIPLE LINEAR REGRESSION
+### MULTIPLE LINEAR REGRESSION
 
-# LOGISTIC REGRESSION
+### LOGISTIC REGRESSION
 
