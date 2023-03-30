@@ -10,7 +10,7 @@ This is not the original program. It is My generated short description/cheatshee
 ### Conditional Probability
 
 ### Bayes Rule
-```
+```Notebook
 def bayesTheorem(pA, pB, pBA):
     return pA * pBA / pB
 pRain = 0.2
